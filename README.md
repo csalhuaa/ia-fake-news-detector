@@ -60,8 +60,6 @@ Este script carga el modelo entrenado y permite clasificar textos ingresados por
 ## Futuras Extensiones
 
 * Implementación de una aplicación web con Flask para exponer el modelo.
-* Incorporación de técnicas avanzadas de NLP como lematización o embeddings.
-* Experimentación con modelos adicionales como Random Forest, XGBoost o transformers.
 
 ## Estructura del Proyecto
 
