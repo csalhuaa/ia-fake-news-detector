@@ -76,6 +76,4 @@ Este script carga el modelo entrenado y permite clasificar textos ingresados por
 └── README.md        # Documentación principal
 ```
 
-## Licencia
-
 Este proyecto es de uso académico y experimental. No se recomienda su uso directo en entornos productivos sin revisiones adicionales.
