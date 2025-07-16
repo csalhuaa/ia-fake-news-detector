@@ -7,6 +7,5 @@ __pycache__/
 .DS_Store
 .idea/
 .vscode/
-models/
 venv/
 .ipynb_checkpoints/
