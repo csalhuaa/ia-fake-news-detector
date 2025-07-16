@@ -1,6 +1,5 @@
 __pycache__/
 *.pyc
-*.csv
 *.json
 .env
 .DS_Store
@@ -8,3 +7,4 @@ __pycache__/
 .vscode/
 venv/
 .ipynb_checkpoints/
+raw/
